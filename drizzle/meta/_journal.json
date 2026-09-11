@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788724981248,
+      "tag": "0000_volatile_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788725343995,
+      "tag": "0001_worthless_skaar",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788816899988,
+      "tag": "0002_great_firestar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1788817527716,
+      "tag": "0003_mushy_cloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1788818504107,
+      "tag": "0004_concerned_cloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1789085964356,
+      "tag": "0005_chilly_mister_fear",
+      "breakpoints": true
+    }
+  ]
+}
